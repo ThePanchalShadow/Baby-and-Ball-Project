@@ -1,0 +1,2 @@
+# Baby-and-Ball-Project
+ A Unity-based project featuring a finite state machine-driven baby character that interacts with a ball and the player. The baby crawls, picks up the ball, delivers it, and returns to its idle state with dynamic speed adjustments, smooth animations, and tap-based interactions. Optimized for a seamless user experience, this project includes custom colliders, animation controllers, and enhanced touch input handling. Ready for iOS deployment (Mac required for build).
